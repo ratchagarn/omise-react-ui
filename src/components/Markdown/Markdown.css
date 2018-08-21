@@ -1,0 +1,11 @@
+.markdown-body {
+  font-family: 'Circular', Arial, sans-serif !important;
+}
+
+.markdown-body table {
+  display: table !important;
+}
+
+.markdown-body p:last-of-type {
+  margin-bottom: 0;
+}
